@@ -6,7 +6,7 @@ I enjoy making games and other projects
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,git,opencv,python,mint)](https://skillicons.dev)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ImJustACat404&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ImJustACat404&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 ## 🧰 Skills & Interests
