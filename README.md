@@ -1,16 +1,25 @@
-## Hi there 👋
+# About Me
 
-<!--
-**ImJustACat404/ImJustACat404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Ido. 
+I'm interested in low-level programming, game design, and cybersecurity. 
+I enjoy making games and other projects
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=c,cs,git,opencv,python,mint)](https://skillicons.dev)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImJustACat404)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Skills & Interests
+
+- **cybersecurity**
+- **low-level programming**
+- **Backend development**
+- **Game design**
+
+---
+
+## 📫 Contact
+
+💬 I'm always open to collaboration and new ideas. Feel free to reach out through GitHub or drop a message in one of my repositories.
+Email: idosenn@outlook.com
+
