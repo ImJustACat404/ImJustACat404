@@ -9,7 +9,7 @@ I enjoy making games and other projects
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ImJustACat404&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
-## 🧰 Skills & Interests
+## 🧰 Interests
 
 - **cybersecurity**
 - **low-level programming**
